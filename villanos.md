@@ -1,4 +1,3 @@
 # Villanos
 
 * Deadshot
-* Capitán America
